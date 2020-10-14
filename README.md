@@ -1,9 +1,9 @@
-# UIStateLibrary
+# UIStateManagerLibrary
 UserControl 관리를 위한 Library
 
 ## HOW TO USE
 
-- UIStateLibrary 적용 방법 1단계
+- UIStateManagerLibrary 적용 방법 1단계
 
 <img src="https://user-images.githubusercontent.com/48943501/95931359-e8e5d800-0e03-11eb-9471-923415cde143.JPG" width="80%"></img>
 
@@ -11,11 +11,11 @@ GitHub에서 zip 파일을 다운받은 후 압축 파일을 풀어준다.
 
 <img src="https://user-images.githubusercontent.com/48943501/95931045-1b430580-0e03-11eb-8927-3030a1d88028.png" width="80%"></img>
 
-프로젝트를 우클릭 후, Add -> Existing Project를 누르고 다운 받은 UIStateLibrary 폴더에서 UIStateLibrary.csproj를 추가해준다.
+프로젝트를 우클릭 후, Add -> Existing Project를 누르고 다운 받은 UIStateManagerLibrary 폴더에서 UIStateManagerLibrary.csproj를 추가해준다.
 
 
 
-- UIStateLibrary 적용 방법 2단계
+- UIStateManagerLibraryLibrary 적용 방법 2단계
 
 <img src="https://user-images.githubusercontent.com/48943501/95931090-2f870280-0e03-11eb-86e8-450e5e8f1fa0.png" width="80%"></img>
 
@@ -27,7 +27,7 @@ GitHub에서 zip 파일을 다운받은 후 압축 파일을 풀어준다.
 
 
 
-- UIStateLibrary 적용 방법 3단계
+- UIStateManagerLibrary 적용 방법 3단계
 
 <img src="https://user-images.githubusercontent.com/48943501/95931126-49c0e080-0e03-11eb-8d43-9b3d965e23fd.png" width="80%"></img>
 
@@ -35,7 +35,7 @@ GitHub에서 zip 파일을 다운받은 후 압축 파일을 풀어준다.
 
 
 
-- UIStateLibrary 적용 방법 4단계
+- UIStateManagerLibrary 적용 방법 4단계
 
 <img src="https://user-images.githubusercontent.com/48943501/95931149-58a79300-0e03-11eb-8ca7-c90e0b419b02.png" width="80%"></img>
 
@@ -43,7 +43,7 @@ GitHub에서 zip 파일을 다운받은 후 압축 파일을 풀어준다.
 
 
 
-- UIStateLibrary 적용 방법 5단계
+- UIStateManagerLibrary 적용 방법 5단계
 
 <img src="https://user-images.githubusercontent.com/48943501/95931193-6fe68080-0e03-11eb-8ed8-51a496cbee15.png" width="80%"></img>
 
@@ -51,7 +51,7 @@ UserControl.xaml.cs에서 "ExampleControl : UserControl" 상속을 "ExampleContr
 
 
 
-- UIStateLibrary 적용 방법 6단계
+- UIStateManagerLibrary 적용 방법 6단계
 
 <img src="https://user-images.githubusercontent.com/48943501/95931204-783ebb80-0e03-11eb-8ac8-9a3e6b4401a6.png" width="80%"></img>
 
@@ -59,7 +59,7 @@ UserControl.xaml.cs에서 "ExampleControl : UserControl" 상속을 "ExampleContr
 
 
 
-- UIStateLibrary 적용 방법 7단계
+- UIStateManagerLibrary 적용 방법 7단계
 
 <img src="https://user-images.githubusercontent.com/48943501/95931767-ffd8fa00-0e04-11eb-9494-f0d638ae396d.png" width="80%"></img>
 
@@ -67,7 +67,7 @@ UserControl.xaml.cs에서 "ExampleControl : UserControl" 상속을 "ExampleContr
 
 
 
-- UIStateLibrary 적용 방법 8단계
+- UIStateManagerLibrary 적용 방법 8단계
 
 <img src="https://user-images.githubusercontent.com/48943501/95931217-7ecd3300-0e03-11eb-95f2-37f468d6b940.png" width="80%"></img>
 
