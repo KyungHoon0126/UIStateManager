@@ -1,0 +1,31 @@
+﻿<Window x:Class="Example.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:control="clr-namespace:Example.Controls"
+        xmlns:local="clr-namespace:Example"
+        WindowStartupLocation="CenterScreen"
+        mc:Ignorable="d"
+        Title="UIStateManager Example" Height="450" Width="800">
+    
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="9*"/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0">
+            <TextBlock Text="UI State Manager Example"
+                       VerticalAlignment="Center"
+                       HorizontalAlignment="Center"
+                       FontSize="30"/>
+        </Grid>
+
+        <Grid Grid.Row="1" x:Name="gdControls">
+            <control:OrderControl x:Name="CtrlOrder" Visibility="Collapsed"/>
+            <control:PlaceControl x:Name="CtrlPlace" Visibility="Collapsed"/>
+            <control:PayControl x:Name="CtrlPay" Visibility="Collapsed"/>
+        </Grid>
+    </Grid>
+</Window>

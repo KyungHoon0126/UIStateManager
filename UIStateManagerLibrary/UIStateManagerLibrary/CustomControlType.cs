@@ -1,4 +1,4 @@
-﻿namespace UIStateManager
+﻿namespace UIStateManagerLibrary
 {
     /// <summary>
     /// 화면 전환을 위해 사용하는 UserControl의 이름을 Enum으로 미리 Type을 정의해 둔다.
@@ -16,5 +16,5 @@
         PAYCASH,
         PAYCARD,
         PAYCOMPLETE
-    }
+    }   
 }

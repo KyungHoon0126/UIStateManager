@@ -2,7 +2,7 @@
 using System.Linq;
 using System.Windows;
 
-namespace UIStateManager
+namespace UIStateManagerLibrary
 {
     // UI의 상태를 관리하는 Class
     public class UIStateManager
