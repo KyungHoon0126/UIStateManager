@@ -47,7 +47,7 @@ GitHub에서 zip 파일을 다운받은 후 압축 파일을 풀어준다.
 
 <img src="https://user-images.githubusercontent.com/48943501/95931193-6fe68080-0e03-11eb-8ed8-51a496cbee15.png" width="80%"></img>
 
-UserControl.xaml.cs에서 "ExampleControl : UserControl" 상속을 "ExampleControl : CustomControl"로 바꾸어 준다.
+UserControl.xaml.cs에서 "ExampleControl : UserControl" 상속을 "ExampleControl : CustomControlModel"로 바꾸어 준다.
 
 
 
