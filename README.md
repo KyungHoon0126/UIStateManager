@@ -11,7 +11,7 @@ GitHub에서 zip 파일을 다운받은 후 압축 파일을 풀어준다.
 
 <img src="https://user-images.githubusercontent.com/48943501/95931045-1b430580-0e03-11eb-8927-3030a1d88028.png" width="80%"></img>
 
-프로젝트를 우클릭 후, Add -> Existing Project를 누르고 다운 받은 UIStateManagerLibrary 폴더에서 UIStateManagerLibrary.csproj를 추가해준다.
+솔루션 우클릭 후, Add -> Existing Project를 누르고 다운 받은 UIStateManagerLibrary 폴더에서 UIStateManagerLibrary.csproj를 추가해준다.
 
 
 
